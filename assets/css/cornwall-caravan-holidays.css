@@ -5189,3 +5189,7 @@ input, select, textarea {
 	#footer a:hover {
 		color: #A78B5C !important;
 	}
+
+	#footer strong {
+		color: #000000 !important;
+	}
