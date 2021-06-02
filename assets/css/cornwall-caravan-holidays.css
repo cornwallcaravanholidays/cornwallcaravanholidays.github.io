@@ -5193,3 +5193,13 @@ input, select, textarea {
 	#footer strong {
 		color: #000000 !important;
 	}
+
+	.miniText {
+		font-size: 0.75em;
+	}
+
+	@media screen and (max-width: 980px) {
+		td .extra {
+			display: none;
+		}
+	}
