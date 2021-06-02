@@ -5203,3 +5203,9 @@ input, select, textarea {
 			display: none;
 		}
 	}
+
+	@media screen and (max-width: 736px) {
+		.hideOnSmall {
+			display: none;
+		}
+	}
