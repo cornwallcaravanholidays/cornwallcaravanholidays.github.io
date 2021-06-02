@@ -3260,7 +3260,7 @@ input, select, textarea {
 							float: right;
 							margin-left: 0.75rem;
 							line-height: inherit;
-							color: #acacac;
+							color: #ffffff;
 						}
 
 						#header > nav > ul > li > a.icon:hover:before {
@@ -5172,6 +5172,10 @@ input, select, textarea {
 
 #header a:hover {
   color: #FFFFFF;
+}
+
+.dropotron a:hover {
+	color: #A78B5C !important;
 }
 
   #banner header h1, header h3 {
